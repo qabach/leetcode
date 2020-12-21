@@ -28,7 +28,7 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
         return sol
     
 # COMPLEXITY O(n^2)
-#   (n-1)(n-2)/2 deducted from Gauss's sum 
+#   (n-1)(n-2)/2 deduced from Gauss's sum 
 # leetcode: 460ms 14.5MB
 
 
