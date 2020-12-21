@@ -73,3 +73,8 @@ def twoSum(self, nums:List[int], target: int) -> List[int]:
             return sol
         map[nums[i]] = i
     return sol
+
+# COMPLEXITY 
+# O(n) to map
+# O(i) to look up and O(n) to loop through to array 
+# leetcode: 48ms 14.4MB 
